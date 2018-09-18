@@ -1,4 +1,4 @@
 este es el segundo fichero modificado para git diff
 
-modificado el archivo renombrado
+modificado el archivo renombrado correcto
 dgsdfg
