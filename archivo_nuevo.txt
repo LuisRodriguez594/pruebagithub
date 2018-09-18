@@ -1,4 +1,4 @@
-este es el segundo fichero modificado para git diff
+este es el segundo fichero modificado para git diff este cambio no afecta
 
 modificado el archivo renombrado correcto
-dgsdfg
+
