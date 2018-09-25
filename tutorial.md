@@ -29,3 +29,10 @@ rthwrthwrth
 ![Este es el logo de google](http://www.colemancbx.com/wp-content/uploads/2015/09/Logo-Google.jpg)
 
 [Esto redirige a google](https://www.google.com/)
+
+# tutorial de GIT
+
+## Comandos basicos de GIT
+
+*iniciar repositorio*
+`git init`  
